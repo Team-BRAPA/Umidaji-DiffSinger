@@ -28,7 +28,7 @@ Por favor, leia e certifique-se de concordar com os termos descritos nesta LICEN
 
 ***
 
-### Revisão rápida da licença
+### Revisão rápida da Licensa
 
 | ☁️ Umidaji 🌈 | Permitido | Proibido | Requer incensa |
 | :---: | :---: | :---: | :---: |

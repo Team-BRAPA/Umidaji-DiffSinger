@@ -22,13 +22,13 @@ Para informações de como utilizar Umidaji Para diffsinger no OpenUtau, por fav
 
 ***
 
-### Licensa
+### Licença
 
 Por favor, leia e certifique-se de concordar com os termos descritos nesta LICENÇA antes de baixar e gerar áudio com Umidaji.
 
 ***
 
-### Revisão rápida da Licensa
+### Revisão rápida da Licença
 
 | ☁️ Umidaji 🌈 | Permitido | Proibido | Requer incensa |
 | :---: | :---: | :---: | :---: |

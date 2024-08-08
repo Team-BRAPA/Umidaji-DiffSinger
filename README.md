@@ -1,4 +1,4 @@
-## biblioteca de canto para Diffsinger Umidaji. ☁️🌈
+## Biblioteca de Canto para Diffsinger Umidaji. ☁️🌈
 
 **Umidaji** é a primeira cantora virtual de IA desenvolvida **100% em português**.  <br> Utilizando o dicionário [BRAPA](https://github.com/Team-BRAPA/BRAPA) criado especificamente para o uso em português brasileiro! 
 Baseada na voz de [Patiu](https://patiu.carrd.co/) **Umidaji** é uma voz que ultiliza recursos de inteligência artificial para transparecer naturalidade e sentimento com seu canto, você pode utilizar a Umidaji através do motor de sintetização Diffsinger no OpenUtau. <br><br> **Todas as vozes do Team-Brapa são criadas eticamente, seu desenvolvimento e distribuição é aprovada pelos provedores de voz.**

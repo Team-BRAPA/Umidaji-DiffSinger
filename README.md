@@ -12,7 +12,7 @@ Este repositório contém todas as informações necessárias para instalar e us
 
 | ☁️🌈 | ⬇️ |
 | :---: | :---: |
-| Umidaji DiffSinger para OpenUTAU | [DOWNLOAD]() |
+| Umidaji DiffSinger para OpenUTAU | [DOWNLOAD](https://github.com/Team-BRAPA/Umidaji-DiffSinger/releases) |
 
 ***
 

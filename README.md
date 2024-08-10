@@ -18,13 +18,18 @@ Este repositório contém todas as informações necessárias para instalar e us
 
 ### Guia de uso
 
-Para informações de como utilizar Umidaji Para diffsinger no OpenUtau, por favor referir se a esta página.
+Para informações de como utilizar Umidaji Para diffsinger no OpenUtau, por favor referir se a [esta página.](https://www.teambrapa.com.br/termos-de-uso)
 
 ***
 
 ### Licença
 
-Por favor, leia e certifique-se de concordar com os termos descritos nesta LICENÇA antes de baixar e gerar áudio com Umidaji.
+Por favor, leia e certifique-se de concordar com os termos descritos [nesses termos](https://www.teambrapa.com.br/termos-de-uso) antes de baixar e gerar áudio com Umidaji.
+
+Termos exclusivos desse modelo:
+
+"A produção de material com temática sexual não pode ser explícita e deve evitar o uso de linguagem vulgar ou qualquer conteúdo que possa depreciar a propriedade intelectual (Umidaji). Isso inclui a criação de músicas, versões de músicas já existentes e obras de arte que envolvam o uso da voz e imagem do banco de dados de voz (Umidaji)."
+
 
 ***
 

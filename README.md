@@ -36,7 +36,7 @@ Por favor, leia e certifique-se de concordar com os termos descritos [nesses ter
 
 ## Revisão rápida da Licença
 
-| ☁️ Umidaji 🌈 | Permitido | Proibido | Requer incensa |
+| ☁️ Umidaji 🌈 | Permitido | Proibido | Requer Licença |
 | :---: | :---: | :---: | :---: |
 | Uso pessoal  | ⭕ | | |
 | Uso Comercial | | | ⭕ | |

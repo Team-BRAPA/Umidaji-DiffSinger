@@ -13,7 +13,6 @@ Gravada por [Patiu](https://patiu.carrd.co/), **Umidaji** é uma voz que ultiliz
 
 Este repositório contém todas as informações necessárias para instalar e usar a Umidaji, incluindo guias detalhados, documentação e recursos adicionais.
 
-***
 
 ## Downloads
 
@@ -22,24 +21,18 @@ Este repositório contém todas as informações necessárias para instalar e us
 | :---: | :---: |
 | Umidaji DiffSinger para OpenUTAU | [DOWNLOAD](https://github.com/Team-BRAPA/Umidaji-DiffSinger/releases) |
 
-***
 
 ## Guia de uso
 
 Para informações de como utilizar Umidaji Para diffsinger no OpenUtau, por favor referir se a [esta página.](https://www.teambrapa.com.br/post/como-utilizar-diffsinger-no-openutau)
 
-***
-
 ## Licença
 
 Por favor, leia e certifique-se de concordar com os termos descritos [nesses termos](https://www.teambrapa.com.br/termos-de-uso) antes de baixar e gerar áudio com Umidaji.
 
-Termos exclusivos desse modelo:
+**Termos exclusivos deste modelo:**
 
 "A produção de material com temática sexual não pode ser explícita e deve evitar o uso de linguagem vulgar ou qualquer conteúdo que possa depreciar a propriedade intelectual (Umidaji). Isso inclui a criação de músicas, versões de músicas já existentes e obras de arte que envolvam o uso da voz e imagem do banco de dados de voz (Umidaji)."
-
-
-***
 
 ## Revisão rápida da Licença
 

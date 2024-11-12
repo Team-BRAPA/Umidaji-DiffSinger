@@ -41,7 +41,6 @@ Please read and make sure you agree to the terms outlined on [this page](https:/
 | :---: | :---: | :---: | :---: |
 | Personal Usage  | ⭕ | | |
 | Commercial Usage | | | ⭕ | |
-| Independent Publications | | | ⭕ | |
 | Explicit sexual <br> content | | ⭕ |  |
 | Political and religious <br> statements | | ⭕ |  |
 | Redistribute the voice <br> into sample packs | | ⭕ |  |

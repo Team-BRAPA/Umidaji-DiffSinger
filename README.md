@@ -40,7 +40,6 @@ Por favor, leia e certifique-se de concordar com os termos descritos [nesses ter
 | :---: | :---: | :---: | :---: |
 | Uso pessoal  | ⭕ | | |
 | Uso Comercial | | | ⭕ | |
-| publicações independentes | | | ⭕ | |
 | Conteúdo sexual <br> explicito | | ⭕ |  |
 | Declarações políticas <br> e religiosas | | ⭕ |  |
 | Redistribuir a voz <br> em packs de sample | | ⭕ |  |

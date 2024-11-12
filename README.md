@@ -1,13 +1,20 @@
-## Biblioteca de Canto para Diffsinger Umidaji. ☁️🌈
+# Umidaji DiffSinger Model ☁️🌈
+Portuguese / [English](README_EN.md)
+<br/>
+![Umidaji Banner](/images/umi_banner.png)
 
-**Umidaji** é a primeira cantora virtual de IA desenvolvida **100% em português**.  <br> Utilizando o dicionário [BRAPA](https://github.com/Team-BRAPA/BRAPA) criado especificamente para o uso em português brasileiro! 
-Baseada na voz de [Patiu](https://patiu.carrd.co/) **Umidaji** é uma voz que ultiliza recursos de inteligência artificial para transparecer naturalidade e sentimento com seu canto, você pode utilizar a Umidaji através do motor de sintetização Diffsinger no OpenUtau. <br><br> **Todas as vozes do Team-Brapa são criadas eticamente, seu desenvolvimento e distribuição é aprovada pelos provedores de voz.**
+
+**Umidaji** é a primeira cantora virtual de IA desenvolvida **100% em Português** utilizando o dicionário [BRAPA](https://github.com/Team-BRAPA/BRAPA) criado especificamente para o uso em Português Brasileiro.<br/>
+
+Gravada por [Patiu](https://patiu.carrd.co/), **Umidaji** é uma voz que ultiliza recursos de inteligência artificial para transparecer naturalidade e sentimento com seu canto, você pode utilizar a Umidaji através do motor de sintetização DiffSinger no OpenUtau.<br/>
+
+**Todas as vozes do Team BRAPA são criadas eticamente, seu desenvolvimento e distribuição é aprovada pelos provedores de voz.**<br/>
 
 Este repositório contém todas as informações necessárias para instalar e usar a Umidaji, incluindo guias detalhados, documentação e recursos adicionais.
 
 ***
 
-### Downloads
+## Downloads
 
 
 | ☁️🌈 | ⬇️ |
@@ -16,13 +23,13 @@ Este repositório contém todas as informações necessárias para instalar e us
 
 ***
 
-### Guia de uso
+## Guia de uso
 
-Para informações de como utilizar Umidaji Para diffsinger no OpenUtau, por favor referir se a [esta página.](https://www.teambrapa.com.br/termos-de-uso)
+Para informações de como utilizar Umidaji Para diffsinger no OpenUtau, por favor referir se a [esta página.](https://www.teambrapa.com.br/post/como-utilizar-diffsinger-no-openutau)
 
 ***
 
-### Licença
+## Licença
 
 Por favor, leia e certifique-se de concordar com os termos descritos [nesses termos](https://www.teambrapa.com.br/termos-de-uso) antes de baixar e gerar áudio com Umidaji.
 
@@ -33,7 +40,7 @@ Termos exclusivos desse modelo:
 
 ***
 
-### Revisão rápida da Licença
+## Revisão rápida da Licença
 
 | ☁️ Umidaji 🌈 | Permitido | Proibido | Requer incensa |
 | :---: | :---: | :---: | :---: |
